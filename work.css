@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    margin: 0;
+    border: 0;
+    cursor: crosshair;
+}
+.heading {
+
+    font-size:large;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
