@@ -1,16 +1,49 @@
 body{
-    background-color: black;
+    background: linear-gradient(to top,#000,rgb(16, 16, 56),rgb(0, 0, 14));
     margin: 0;
     border: 0;
     cursor: crosshair;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+   
 }
 .heading {
 
-    font-size:large;
+    font-size: xxx-large;
+    text-decoration: underline;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 50px;
+    margin-top: 50px;
+     font-weight: 200;
+}
+.myweb{
+    color: white;
+    margin-top: 20px;
+     font-weight: 200;
 }
 
+.line{
+    color: white;
+}
+
+h1{
+    margin:20px;
+    text-align: center;
+    text-decoration:  underline;
+     font-weight: 200;
+    
+
+}
+
+button{
+    margin-left: 90px;
+    margin-bottom:10px;
+}
+h4{
+    margin: 29px;
+ font-weight:350;
+}
