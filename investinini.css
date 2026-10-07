@@ -68,10 +68,15 @@ p1{
 .where{
     margin-left: 20x;
     margin: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
-.back{
-    color: rgb(71, 66, 66);
+
+
+.whi{
+    margin: 20px;
+    margin-left: 20px;
 
 }
 
