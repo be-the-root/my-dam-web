@@ -10,3 +10,40 @@ body{
    
 }
 
+h1{
+    color:white;
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    font-size:xxx-large;
+    
+}
+
+h2{
+    color:white;
+
+}
+
+P1{
+    color: white;
+
+}
+
+.how{
+
+    margin: 20px;
+
+}
+
+.what{
+    margin: 20px;
+}
+.discription{
+    margin: 20px;
+
+}
+
+.difficulties{
+    margin: 20px;
+}
+
