@@ -9,3 +9,70 @@ body{
     background-attachment: fixed;
    
 }
+
+h1{
+
+    color: white;
+}
+
+h2{
+    color: white;
+    
+}
+
+
+p1{
+    color:white;
+    margin: 20px;
+    margin-bottom: 30px;
+}
+
+.heading{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    text-decoration: underline;
+    margin: 20px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-color: white;
+
+}
+
+.what{
+    margin: 20x;
+    margin-left: 20px;
+    
+}
+
+.how{
+    margin: 20px;
+    margin-left: 20px;
+
+}
+
+.difficulties{
+    margin: 20px;
+    margin-left:20px;
+
+}
+
+.howto{
+    margin: 20px;
+    margin-left:20px;
+
+}
+
+.where{
+    margin-left: 20x;
+    margin: 20px;
+}
+
+.back{
+    color: rgb(71, 66, 66);
+
+}
+
+
