@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(to top,#000000,rgb(5, 5, 46),rgb(5, 5, 82));
+    margin: 0;
+    border: 0;
+    cursor: crosshair;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
+.what{
+    margin: 20px;
+
+}
+
+h1{
+    color: white;
+
+}
+h2{
+    color: white;
+}
+
+p1{
+    color: white;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-decoration-color: white;
+
+}
+
+.discription{
+    margin: 20px;
+}
+.how{
+    margin: 20px;
+}
+
+.whatdiffi{
+    margin:20px;
+
+}
+
+.whatfun{
+    margin:20px;
+
+}
+button{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
