@@ -1,0 +1,13 @@
+body{
+
+    margin: 0;
+    border: 0;
+    background: linear-gradient(to top,#000000,rgb(5, 5, 46),rgb(5, 5, 82));
+    cursor: crosshair;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
