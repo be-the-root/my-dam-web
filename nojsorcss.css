@@ -11,3 +11,48 @@ body{
    
 }
 
+
+.heading{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: monospace;
+    margin: 20px;
+    margin-bottom: 20px;
+    font-size: xx-large;
+    
+}
+
+h2{
+    color: white;
+    
+}
+
+p1{
+    color: white;
+
+}
+
+.what{
+    margin: 20px;
+    margin-left: 20px;
+
+}
+
+.discription{
+    margin: 20px;
+
+}
+
+.how{
+    margin: 20px;
+}
+.whatifound{
+    margin: 20px;
+
+}
+
+.whati{
+    margin: 20px;
+    
+}
