@@ -8,4 +8,20 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+.head{
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    font-size: xx-large;
+}
 
+.para{
+    color: white;
+    margin: 20px;
+    margin-left: 20px;
+    font-size: large;
+    font-family: cursive;
+    font-style: italic;
+    
+}
