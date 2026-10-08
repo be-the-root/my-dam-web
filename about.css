@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(to top,#000000,rgb(5, 5, 46),rgb(5, 5, 82));
+    margin: 0;
+    border: 0;
+    cursor: crosshair;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
+h1{
+    color: white;
+}
+
+p1{
+    color: white;
+
+
+
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    text-decoration-color: white;
+    font-size: xx-large;
+    margin: 20px;
+
+}
+
+.para{
+    margin: 20px;
+    font-family: cursive;
+    font-style: italic;
+}
