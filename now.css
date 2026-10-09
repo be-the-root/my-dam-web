@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to top,#000000,rgb(5,5,46),rgb(5,5,82));
+    margin: 0;
+    border: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.head{
+    color: white;
+    margin: 20px;
+    display:flex;
+    justify-content:center;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+
+}
+.para{
+    color: white;
+    margin: 20px;
+    font-family: monospace;
+    font-size: x-large;
+    
+}
