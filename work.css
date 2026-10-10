@@ -71,7 +71,7 @@ h4{
 
 .btn:hover{
     background-color: #06193d;
-    border-color: #0099ff;
+    border-color: #0f5f94;
     box-shadow: 0 0 12px rgba(0,225,102,0.25);
     transform: translateY(-1px);
 }
