@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    background-color: #000000;
+    background-image:     repeating-linear-gradient(0deg , rgba(51, 255, 0, 0.164)0px, rgba(74, 255, 2, 0.281)1px , transparent 1px , transparent 40px)
+    ,repeating-linear-gradient(90deg , rgba(2, 255, 15, 0.178)0px, rgba(51, 255, 0, 0.24)1px , transparent 1px , transparent 40px);
+    background-attachment: fixed;
+    color: #06193d;
+    
+}
+
+h1{
+    color: white;
+
+    margin: 20px;
+    text-align: center;
+    font-size: xxx-large;
+    text-decoration: underline;
+
+
+}
+p1{
+    color: white;
+    margin: 20px;
+    font-size: large;
+    text-align: center;
+    font-family: monospace;
+    
+}
