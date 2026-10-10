@@ -1,15 +1,12 @@
 body{
-    background: linear-gradient(to top,#000000,rgb(5, 5, 46),rgb(5, 5, 82));
-    margin: 0;
-    border: 0;
-    cursor: crosshair;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    background-repeat: no-repeat;
+    margin:0;
+    background-color: #000000;
+    background-image:     repeating-linear-gradient(0deg , rgba(51, 255, 0, 0.164)0px, rgba(74, 255, 2, 0.281)1px , transparent 1px , transparent 40px)
+    ,repeating-linear-gradient(90deg , rgba(2, 255, 15, 0.178)0px, rgba(51, 255, 0, 0.24)1px , transparent 1px , transparent 40px);
     background-attachment: fixed;
-   
+    color: #06193d;
+    
 }
-
 .what{
     margin: 20px;
 
