@@ -70,6 +70,8 @@ body{
     background-color: #06193d;
     border-color: #046bf3;
 
+
+    
     transform: translateY(-1px);
     box-shadow: rgba(rgb(0,0,0,), rgb(38, 44, 38), blue, alpha);
  }
