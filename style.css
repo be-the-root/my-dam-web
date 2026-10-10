@@ -73,3 +73,24 @@ body{
     transform: translateY(-1px);
     box-shadow: rgba(rgb(0,0,0,), rgb(38, 44, 38), blue, alpha);
  }
+ .headin{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid white;
+    width: 0;
+    animation: typing 3.5s steps(30, end) forwards, blink-cursor 0.75s step-end infinite;
+
+ }
+ @keyframes typing {
+    from {width: 0;}
+    to {width: 100%;} 
+
+ }
+
+ @keyframes blink-curser {
+    from, to {border-color: transparent;}
+    50% {border-color: white;}
+    
+ }
