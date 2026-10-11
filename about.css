@@ -11,12 +11,6 @@ h1{
     color: white;
 }
 
-p1{
-    color: white;
-
-
-
-}
 
 .head{
     display: flex;
@@ -30,8 +24,10 @@ p1{
 
 .para{
     margin: 20px;
-    font-family: cursive;
-    font-style: italic;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+
 }
 
 
