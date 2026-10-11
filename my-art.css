@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+
+}
+
+.head{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    font-size: x-large;
+
+}
+
+.para{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    margin: 20px;
+
+
+}
+
+
+.para2{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    font-weight: 800;
+
+}
+
+.para3{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    font-weight: 800;
+    
+}
+
+.para4{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    font-weight: 800;
+    
+}
