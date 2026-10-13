@@ -9,8 +9,7 @@ i made this website for my blog or it can be called a portfilo, this website onl
 
 ### Screenshots
 
-
-
+![Descriptive Alt Text](ss.png)
 
 ## Getting Started
 
