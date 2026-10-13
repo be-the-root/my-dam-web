@@ -9,6 +9,9 @@ i made this website for my blog or it can be called a portfilo, this website onl
 
 ### Screenshots
 
+
+
+
 ## Getting Started
 
 ### Dependencies
